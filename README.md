@@ -9,7 +9,7 @@ A Python library to simulate electronic devices connected to the GPIO on a Raspb
 * Desactiva el efecto de sonido que da errores para instalar.
 
 * Instalar desde GitHub
-`pip install --force-reinstall --no-deps git+https://github.com/rubennj/tkgpio.git`
+```pip install --force-reinstall --no-deps git+https://github.com/rubennj/tkgpio.git```
 
 ## About
 
