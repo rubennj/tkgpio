@@ -3,7 +3,7 @@ from .base import PreciseMockTriggerPin, PreciseMockFactory, PreciseMockCharging
 from gpiozero import Device
 from gpiozero.pins.mock import MockPWMPin
 from PIL import ImageEnhance, Image, ImageDraw, ImageFont, ImageTk
-from sounddevice import play, stop
+# from sounddevice import play, stop
 import numpy
 import scipy.signal
 from tkinter import Tk, Frame, Label, Button, Scale, HORIZONTAL, VERTICAL, CENTER
