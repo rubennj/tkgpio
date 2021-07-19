@@ -10,6 +10,8 @@ A Python library to simulate electronic devices connected to the GPIO on a Raspb
 
 * Instalar desde GitHub
 ```pip3 install --force-reinstall git+https://github.com/rubennj/tkgpio.git```
+* Desintalar
+```pip3 uninstall tkgpio```
 
 ## About
 
